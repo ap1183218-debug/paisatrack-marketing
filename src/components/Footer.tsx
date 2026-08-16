@@ -33,7 +33,7 @@ export function Footer() {
         aria-hidden
         width={72}
         height={72}
-        className="tile-shadow absolute -top-9 left-1/2 z-10 h-16 w-16 -translate-x-1/2 rotate-6 rounded-[var(--radius-tile)] md:left-auto md:right-24 md:translate-x-0"
+        className="tile-shadow absolute -top-9 left-1/2 z-10 h-16 w-16 -translate-x-1/2 rotate-6 rounded-[var(--radius-tile)] md:left-[62%]"
       />
 
       <div className="rounded-t-[40px] bg-footer px-6 pb-10 pt-16">
