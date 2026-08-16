@@ -20,11 +20,11 @@ export function CardRow() {
             src={c.src}
             alt=""
             width={480}
-            height={600}
-            className="aspect-[4/5] w-full rounded-[var(--radius-tile)] object-cover"
+            height={540}
+            className="aspect-[8/9] w-full rounded-[var(--radius-tile)] object-cover"
           />
 
-          <div className="px-2 pb-3 pt-5 text-center">
+          <div className="px-2 pb-12 pt-10 text-center">
             <h3 className="text-[17px] font-bold leading-tight tracking-[-0.01em] text-paper">
               {c.title}
             </h3>
